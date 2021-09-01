@@ -1,0 +1,54 @@
+.title {
+  padding: 10px 50px 0px 0px;
+  font-weight:  bold;
+  font-size: x-large;
+}
+#time {
+  padding: 50px 50px 50px 10px;
+  font-weight:  bold;
+  font-size: xx-large;
+}
+
+#start {
+  text-align: center;
+  display: inline-block; 
+  background-color: lightgray;
+  border: 1px solid black;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  font-weight:  bold;
+  font-size: large;
+}
+
+#stop {
+  text-align: center;
+  display: inline-block; 
+  background-color: lightgray;
+  border: 1px solid black;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  font-weight:  bold;
+  font-size: large;
+}
+
+#reset {
+  text-align: center;
+  display: inline-block; 
+  background-color: lightgray;
+  border: 1px solid black;
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  font-weight:  bold;
+  font-size: large;
+}
+
+/*#reset:hover {*/
+/*  filter: opacity(50%);*/
+/*}*/
+
+.opacity { 
+ filter: opacity(50%);
+ }
